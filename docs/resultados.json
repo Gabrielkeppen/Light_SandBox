@@ -1,0 +1,72 @@
+[
+ {
+  "caso": "A",
+  "luz": [
+   0,
+   0,
+   550
+  ],
+  "ndotl": 0.939693,
+  "angulo": 20.0,
+  "difusa": 93.969262,
+  "esperado_ndotl": 0.9396926207859084,
+  "esperado_angulo": 19.999999999999993,
+  "esperado_difusa": 93.96926207859084
+ },
+ {
+  "caso": "B",
+  "luz": [
+   350,
+   -250,
+   400
+  ],
+  "ndotl": 0.231593,
+  "angulo": 76.609119,
+  "difusa": 23.159308,
+  "esperado_ndotl": 0.23159308496906544,
+  "esperado_angulo": 76.60911852376111,
+  "esperado_difusa": 23.159308496906544
+ },
+ {
+  "caso": "C",
+  "luz": [
+   400,
+   0,
+   150
+  ],
+  "ndotl": -0.34202,
+  "angulo": 110.0,
+  "difusa": 0.0,
+  "esperado_ndotl": -0.3420201433256687,
+  "esperado_angulo": 110.0,
+  "esperado_difusa": 0
+ },
+ {
+  "caso": "D",
+  "luz": [
+   -400,
+   0,
+   300
+  ],
+  "ndotl": 0.650192,
+  "angulo": 49.443955,
+  "difusa": 65.019155,
+  "esperado_ndotl": 0.6501915465577337,
+  "esperado_angulo": 49.44395478041654,
+  "esperado_difusa": 65.01915465577338
+ },
+ {
+  "caso": "E",
+  "luz": [
+   -200,
+   0,
+   500
+  ],
+  "ndotl": 0.985571,
+  "angulo": 9.744881,
+  "difusa": 98.557118,
+  "esperado_ndotl": 0.9855711845085746,
+  "esperado_angulo": 9.744881296942157,
+  "esperado_difusa": 98.55711845085746
+ }
+]
