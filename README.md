@@ -9,9 +9,6 @@ Professor: Rubem Matimoto Koide.
 |---|---|
 | Gabriel Thiago Casini Keppen | 172422353 |
 | Felipe Silva Muchinski | 172422440 |
-| _(a completar)_ | |
-| _(a completar)_ | |
-| _(a completar)_ | |
 
 ## Sobre o projeto
 
